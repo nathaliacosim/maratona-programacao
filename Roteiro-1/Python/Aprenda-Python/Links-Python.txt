@@ -1,0 +1,5 @@
+Links para cursos gratuitos de Python:
+
+https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+https://www.udemy.com/python-para-iniciantes/
+https://python.org.br/introducao/
